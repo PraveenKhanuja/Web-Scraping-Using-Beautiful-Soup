@@ -1,2 +1,2 @@
 # Web-Scraping-Using-Beautiful-Soup
-In this article, we 'll understand how to extract data from the web, manage and clean data using  Pandas library, and data visualize using Matplotlib library.
+Web scraping is a phrase used to particularise the use of an algorithm to pluck and process large amounts of data from the web. Are you a data scientist, engineer, or anybody who investigates large amounts of datasets? the ability to irritate data from the web is a useful experience to have. Say you locate data from the web, and there is no immediate way to download it, web scraping using Python with bs4 is a craft you can use to extract the data into a useful form that can be imported.
